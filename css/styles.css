@@ -1,0 +1,48 @@
+h1 {
+	color: pink;
+	font-family: "Courier New";
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	text-align: center;
+}
+
+.jin {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 20%;
+  	padding: 1px;
+  	border: 1px solid black;
+
+}
+body {
+	background-image: url("https://i.pinimg.com/originals/ef/2b/d5/ef2bd574dbbc55f0479a5e187e7ae3a5.jpg");
+	font-family: "Lucida Console";
+	line-height: 2em;
+}
+
+.contact :hover {
+	background-color: #f7deea;
+	color: #9DA3A4;
+
+}
+
+.copyright {
+	font-style: italic;
+	margin-top: 5em;
+}
+
+.work {
+	background-color: #604D53;
+	color: #FFDBDA;
+}
+
+.education {
+	background-color: #604D53;
+	color: #FFDBDA;
+}
+/*
+pastel gray: #D5C5C8
+quick silver: #9DA3A4
+wenge: #604D53 
+shimmering blush: #DB7F8E
+pale pink: #FFDBDA
